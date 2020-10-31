@@ -7,3 +7,4 @@ React makes it painless to create interactive UIs
 4. [Infinite Scroll Example](https://github.com/georgioupanayiotis/React-Tutorials/blob/master/Infinite-Scroll-Example.js)
 5. [Pricing Example](https://github.com/georgioupanayiotis/React-Tutorials/blob/master/Pricing-Example.js)
 6. [Copy to clipboard](https://github.com/georgioupanayiotis/React-Tutorials/blob/master/copy-to-clipboard.js)
+7. Parse state from chidren components to parent components (upcoming)
